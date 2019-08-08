@@ -13,5 +13,6 @@
         "psr-4": {
             "zjq\\triefilter\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
