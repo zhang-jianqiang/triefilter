@@ -1,0 +1,17 @@
+{
+    "name": "zjq/triefilter",
+    "authors": [
+        {
+            "name": "zhang-jianqiang",
+            "email": "853183966@qq.com"
+        }
+    ],
+     "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "zjq\\triefilter\\": "src/"
+        }
+    }
+}
